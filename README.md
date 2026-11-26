@@ -1,4 +1,6 @@
-# 机场与 VPN 客户端使用指南：订阅导入、连接排查和网络恢复
+# 2027 性价比机场推荐｜便宜机场与低价梯子精选指南
+
+面向2027年的选购参考，资料读取于2026-11-26；未作2027年价格或性能实测。
 
 装好客户端却没有节点，显示已连接但网页仍打不开，退出软件以后反而无法上网——这三种情况通常需要检查不同环节。本文按“先确认、再操作、看结果”的顺序整理处理方法，并附推荐机场入口。
 
@@ -21,30 +23,30 @@
 <a id="price-comparison"></a>
 ## 2026机场套餐价格对比（按月折算）
 
-本次读取的是人民币月付方案，折合月价等于月付实付金额；未据此推断未展示的年付价格。以下每站取公开展示方案中月付金额最低的一档，按金额升序；相同价格按原测评编号排列，不表示性能或综合性价比排序。
+本次读取的是人民币月付方案，折合月价等于当月实付；不推断未展示的年付最低价。每站取已展示方案中月付最低档，按价格升序，同价保留原编号顺序，非性能或综合性价比评级。线路和AI支持为页面声明，没有独立实测。未确认备用地址时如实标注，已收录链接也不冒称独立备用官网。手机可横向滑动表格查看全部六列。
 
-|价格序|测评编号|实付/月|额度/月|
-|---|---|---|---|
-|1|[测评09](#review-9)|¥9.00|140GB|
-|2|[测评15](#review-15)|¥9.06|141GB|
-|3|[测评02](#review-2)|¥9.15|142GB|
-|4|[测评10](#review-10)|¥9.16|142GB|
-|5|[测评16](#review-16)|¥9.22|142GB|
-|6|[测评17](#review-17)|¥9.38|144GB|
-|7|[测评18](#review-18)|¥9.54|146GB|
-|8|[测评03](#review-3)|¥9.68|147GB|
-|9|[测评11](#review-11)|¥9.69|147GB|
-|10|[测评19](#review-19)|¥9.70|147GB|
-|11|[测评20](#review-20)|¥9.86|149GB|
-|12|[测评04](#review-4)|¥10.21|152GB|
-|13|[测评12](#review-12)|¥10.22|152GB|
-|14|[测评05](#review-5)|¥10.37|154GB|
-|15|[测评13](#review-13)|¥10.38|154GB|
-|16|[测评06](#review-6)|¥10.53|155GB|
-|17|[测评01](#review-1)|¥10.63|156GB|
-|18|[测评07](#review-7)|¥10.69|157GB|
-|19|[测评08](#review-8)|¥10.85|159GB|
-|20|[测评14](#review-14)|¥10.91|159GB|
+|排名|机场名称|最低价格（折合月付）|线路特色|AI支持情况|官网备用地址|
+|---|---|---|---|---|---|
+|1|[黑洞加速器](#review-9)|¥9.00/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.heidongguanwang.com/)|
+|2|[极连云](#review-15)|¥9.06/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.jisuyunjcgw.com/)|
+|3|[Nexitally奶昔机场](#review-2)|¥9.15/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://www.nexitallyjcvpn.com/)|
+|4|[一分机场](#review-10)|¥9.16/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://www.yifenjichangguanwang.org/)|
+|5|[魅影极速](#review-16)|¥9.22/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.meiyingjisuguanwang.com/)|
+|6|[AmyTelecom](#review-17)|¥9.38/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.amytelecomguanwang.com/)|
+|7|[ImmTel](#review-18)|¥9.54/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.immtelguanwang.com/)|
+|8|[守候网络机场](#review-3)|¥9.68/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://www.shouhouwangluojc.com/)|
+|9|[三分机场](#review-11)|¥9.69/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://www.sanfenjichangguanwang.org/)|
+|10|[FlowerCloud花云](#review-19)|¥9.70/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.flowercloudguanwang.com/)|
+|11|[YToo歪兔](#review-20)|¥9.86/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.ytooguanwang.com/)|
+|12|[贝贝云](#review-4)|¥10.21/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.beibeiyunguanwang.org/)|
+|13|[狗狗加速器](#review-12)|¥10.22/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://www.gougoujsguanwang.org/)|
+|14|[极速云机场官网](#review-5)|¥10.37/月（月付）|IEPL（页面声明）|待核实|备用待核实；[已收录入口](https://www.jisuyunguanwang.com/)|
+|15|[顶级机场](#review-13)|¥10.38/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://www.dingjijcguanwang.org/)|
+|16|[佛跳墙](#review-6)|¥10.53/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.fotiaoqiangguanwang.com/)|
+|17|[一元机场](#review-1)|¥10.63/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://www.yiyuanjcgw.com/)|
+|18|[极光](#review-7)|¥10.69/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.jiguangjichang.com/)|
+|19|[墙洞](#review-8)|¥10.85/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.qiangdongguanwang.com/)|
+|20|[星链云](#review-14)|¥10.91/月（月付）|IEPL（页面声明）|ChatGPT、Gemini（页面声明）|备用待核实；[已收录入口](https://cn.xlyguanwang.com/)|
 
 <a id="site-directory"></a>
 ## 推荐机场入口
