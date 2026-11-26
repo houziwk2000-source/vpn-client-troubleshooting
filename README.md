@@ -19,67 +19,67 @@
 <a id="site-directory"></a>
 ## 推荐机场入口
 
-下面每项来自不同品牌分组，名称按所列资料页记录保留，一组只列一个入口。**这是资料目录，不是速度排行、购买建议或品牌官方认证清单**；名称中含“官网”的字样也不代表本文核实了其授权身份。访问前核对域名与实际服务关系，付款、安装或登录前再确认提供方与条款。本文不代办原账户，不保证不同站点之间可以迁移余额或订单。
+下列“订阅入口”用于进入站点查看订阅相关信息；导入客户端时，请使用实际账户内提供的个人订阅地址。下面每项来自不同品牌分组，名称按所列资料页记录保留，一组只列一个入口。**这是资料目录，不是速度排行、购买建议或品牌官方认证清单**；名称中含“官网”的字样也不代表本文核实了其授权身份。访问前核对域名与实际服务关系，付款、安装或登录前再确认提供方与条款。本文不代办原账户，不保证不同站点之间可以迁移余额或订单。
 
 1. **一元机场**  
-   资料域名：[www.yiyuanjcgw.com](https://www.yiyuanjcgw.com/)
+   订阅入口：[www.yiyuanjcgw.com](https://www.yiyuanjcgw.com/)
 
 2. **Nexitally奶昔机场**  
-   资料域名：[www.nexitallyjcvpn.com](https://www.nexitallyjcvpn.com/)
+   订阅入口：[www.nexitallyjcvpn.com](https://www.nexitallyjcvpn.com/)
 
 3. **守候网络机场**  
-   资料域名：[www.shouhouwangluojc.com](https://www.shouhouwangluojc.com/)
+   订阅入口：[www.shouhouwangluojc.com](https://www.shouhouwangluojc.com/)
 
 4. **贝贝云**  
-   资料域名：[cn.beibeiyunguanwang.org](https://cn.beibeiyunguanwang.org/)
+   订阅入口：[cn.beibeiyunguanwang.org](https://cn.beibeiyunguanwang.org/)
 
 5. **极速云机场官网**  
-   资料域名：[www.jisuyunguanwang.com](https://www.jisuyunguanwang.com/)
+   订阅入口：[www.jisuyunguanwang.com](https://www.jisuyunguanwang.com/)
 
 6. **佛跳墙**  
-   资料域名：[cn.fotiaoqiangguanwang.com](https://cn.fotiaoqiangguanwang.com/)
+   订阅入口：[cn.fotiaoqiangguanwang.com](https://cn.fotiaoqiangguanwang.com/)
 
 7. **极光**  
-   资料域名：[cn.jiguangjichang.com](https://cn.jiguangjichang.com/)
+   订阅入口：[cn.jiguangjichang.com](https://cn.jiguangjichang.com/)
 
 8. **墙洞**  
-   资料域名：[cn.qiangdongguanwang.com](https://cn.qiangdongguanwang.com/)
+   订阅入口：[cn.qiangdongguanwang.com](https://cn.qiangdongguanwang.com/)
 
 9. **黑洞加速器**  
-   资料域名：[cn.heidongguanwang.com](https://cn.heidongguanwang.com/)
+   订阅入口：[cn.heidongguanwang.com](https://cn.heidongguanwang.com/)
 
 10. **一分机场**  
-   资料域名：[www.yifenjichangguanwang.org](https://www.yifenjichangguanwang.org/)
+   订阅入口：[www.yifenjichangguanwang.org](https://www.yifenjichangguanwang.org/)
 
 11. **三分机场**  
-   资料域名：[www.sanfenjichangguanwang.org](https://www.sanfenjichangguanwang.org/)
+   订阅入口：[www.sanfenjichangguanwang.org](https://www.sanfenjichangguanwang.org/)
 
 12. **狗狗加速器**  
-   资料域名：[www.gougoujsguanwang.org](https://www.gougoujsguanwang.org/)
+   订阅入口：[www.gougoujsguanwang.org](https://www.gougoujsguanwang.org/)
 
 13. **顶级机场**  
-   资料域名：[www.dingjijcguanwang.org](https://www.dingjijcguanwang.org/)
+   订阅入口：[www.dingjijcguanwang.org](https://www.dingjijcguanwang.org/)
 
 14. **星链云**  
-   资料域名：[cn.xlyguanwang.com](https://cn.xlyguanwang.com/)
+   订阅入口：[cn.xlyguanwang.com](https://cn.xlyguanwang.com/)
 
 15. **极连云**  
-   资料域名：[cn.jisuyunjcgw.com](https://cn.jisuyunjcgw.com/)
+   订阅入口：[cn.jisuyunjcgw.com](https://cn.jisuyunjcgw.com/)
 
 16. **魅影极速**  
-   资料域名：[cn.meiyingjisuguanwang.com](https://cn.meiyingjisuguanwang.com/)
+   订阅入口：[cn.meiyingjisuguanwang.com](https://cn.meiyingjisuguanwang.com/)
 
 17. **AmyTelecom**  
-   资料域名：[cn.amytelecomguanwang.com](https://cn.amytelecomguanwang.com/)
+   订阅入口：[cn.amytelecomguanwang.com](https://cn.amytelecomguanwang.com/)
 
 18. **ImmTel**  
-   资料域名：[cn.immtelguanwang.com](https://cn.immtelguanwang.com/)
+   订阅入口：[cn.immtelguanwang.com](https://cn.immtelguanwang.com/)
 
 19. **FlowerCloud花云**  
-   资料域名：[cn.flowercloudguanwang.com](https://cn.flowercloudguanwang.com/)
+   订阅入口：[cn.flowercloudguanwang.com](https://cn.flowercloudguanwang.com/)
 
 20. **YToo歪兔**  
-   资料域名：[cn.ytooguanwang.com](https://cn.ytooguanwang.com/)
+   订阅入口：[cn.ytooguanwang.com](https://cn.ytooguanwang.com/)
 
 <a id="diagnose"></a>
 ## 先判断问题发生在哪一层
